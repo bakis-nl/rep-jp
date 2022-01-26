@@ -1,3 +1,3 @@
 public class baki{
-  system.out.println("baki was here !..");
+  System.out.println("baki was here !..");
 }
